@@ -1,7 +1,7 @@
 //SPDX-License-Identifier: MIT
 pragma solidity 0.8.30;
 
-contract simpleStorage{
+contract SimpleStorage{
     uint myFavNumber = 0;
     
     struct Person {
